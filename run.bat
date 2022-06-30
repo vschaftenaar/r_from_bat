@@ -1,4 +1,5 @@
-@echo off&setlocal
+@echo off
+setlocal
 title title of the application
 
 REM Search for R-script
